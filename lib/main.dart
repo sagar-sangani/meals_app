@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         fontFamily: 'Raleway',
         textTheme: ThemeData.light().textTheme.copyWith(
               titleMedium: TextStyle(
-                fontSize: 20,
+                fontSize: 18,
                 fontFamily: 'RebotoCondensed',
               ),
             ),

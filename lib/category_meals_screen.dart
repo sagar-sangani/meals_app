@@ -11,7 +11,9 @@ class CategoryMealsScreen extends StatelessWidget {
           'The Recipes',
         ),
       ),
-      body: Container(),
+      body: Container(
+        child: Text('list of meals'),
+      ),
     );
   }
 }
